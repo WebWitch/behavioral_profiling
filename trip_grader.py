@@ -21,10 +21,10 @@ file_extension = '.csv'
 #f_name = 'Documents/logs/lap_' + str(LAP_NUM)
 
 # file path for the CSV log file
-f_name = 'Documents\\logs\\lap_' + str(LAP_NUM)
+f_name = 'C:\\Users\\DELL\\PycharmProjects\\behavioral_profiling\\Documents\\logs\\lap_' + str(LAP_NUM)
 
 #path for storing the segment scores in a lap
-f_lap_name = 'Documents\\graphs\\lap_' + str(LAP_NUM)
+f_lap_name = 'C:\\Users\\DELL\\PycharmProjects\\behavioral_profiling\\Documents\\graphs\\lap_' + str(LAP_NUM)
 
 file_name = f_name + file_extension
 
