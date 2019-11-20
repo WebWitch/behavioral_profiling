@@ -7,7 +7,7 @@ Created on Mon Jul 15 08:37:06 2019
         : Shankar Sridhar
 """
 
-import grading_helpers as gh
+from behavioral_profiling import grading_helpers as gh
 import math
 import matplotlib.pyplot as plt
 

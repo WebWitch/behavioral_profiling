@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import helper_functions as hf
+from behavioral_profiling import helper_functions as hf
 import RPi.GPIO as GPIO
 import can
 import time
